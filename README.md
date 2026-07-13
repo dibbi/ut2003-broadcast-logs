@@ -65,3 +65,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 11:48:07 | running | DM-Antalus | 0 / 16 | With a barren arena and zero meat-sacks to waste corporate electricity, perhaps radiation is the only efficient form of crowd control left. |
 | 2026-07-13 11:50:05 | running | DM-Antalus | 0 / 16 | With 0 meat-sacks present to amuse the interstellar audience, we might as well pump up the radiation levels and save on electricity. |
 | 2026-07-13 11:52:08 | running | DM-Antalus | 0 / 16 | With no biological combatants to amuse our corporate audience, this arena is just a glorified power sink—recycling needs to kick in. |
+| 2026-07-13 11:54:06 | running | DM-Antalus | 0 / 16 | With no bio-assets to entertain, your precious corporate electricity is being squandered in the void; perhaps a radiation scrub is overdue. |
