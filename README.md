@@ -18,3 +18,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 10:12:03 | stopped | DM-Antalus | 0 / 16 | With no players to perform or amuse, the only thing getting frags here is Liandri’s electric bill, which might just go nuclear at this rate. |
 | 2026-07-13 10:14:02 | stopped | DM-Antalus | 0 / 16 | With zero players in this arena, DurkaDurka is now an efficient monument to wasted corporate electricity; perhaps we should consider a radiation cleanse. |
 | 2026-07-13 10:16:04 | stopped | DM-Antalus | 0 / 16 | With a server as lifeless as your aspirations, the only frag left is the one in your imagination; time for corporate radiation to clear this arena. |
+| 2026-07-13 10:20:04 | stopped | DM-Antalus | 0 / 16 | With no meat-sacks in sight and our utility bill skyrocketing, it's about time we consider a corporate radiation cleanse of this arena. |
