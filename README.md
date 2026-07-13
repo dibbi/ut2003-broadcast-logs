@@ -82,3 +82,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 12:22:03 | stopped | DM-Antalus | 0 / 16 | With a grand total of zero meat-sacks in the arena, DurkaDurka is just another wasteland of wasted power and corporate potential. |
 | 2026-07-13 12:24:04 | stopped | DM-Antalus | 0 / 16 | With zero active meat-sacks roaming DM-Antalus, it seems corporate electricity is being squandered on this cold, empty shell of a server—delightful. |
 | 2026-07-13 12:26:03 | stopped | DM-Antalus | 0 / 16 | Empty server, my dear meat-sacks, just a cost-cutting black hole devouring resources while we wait for someone to heroically flop in and disappoint the corporate audience. |
+| 2026-07-13 12:28:04 | stopped | DM-Antalus | 0 / 16 | With the arena halted and zero meat-sacks wasting our precious electricity, perhaps it's time to consider a corporate-sponsored radiation clear-out. |
