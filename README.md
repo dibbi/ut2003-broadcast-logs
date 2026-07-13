@@ -55,3 +55,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 11:28:07 | running | DM-Antalus | 0 / 16 | With 0 active meat-sacks in this arena, the corporate power is hemorrhaging electricity for an audience of dust bunnies—pathetic. |
 | 2026-07-13 11:30:06 | running | DM-Antalus | 0 / 16 | With an empty server, DurkaDurka is nothing more than a lavish monument to wasted corporate electricity and the threat of a radiation-sparking cleaning crew. |
 | 2026-07-13 11:32:07 | running | DM-Antalus | 0 / 16 | With 0 players active, the only thing being recycled here is corporate electricity; perhaps it's time to consider a radiation purge for efficiency. |
+| 2026-07-13 11:34:07 | running | DM-Antalus | 0 / 16 | With a deserted arena and zero frags, perhaps we should switch to a corporate funeral for overcooked meat-sacks instead of this waste of electricity. |
