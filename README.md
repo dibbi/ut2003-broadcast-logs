@@ -77,3 +77,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 12:12:06 | running | DM-Antalus | 0 / 16 | With zero organic assets in the arena, this corporate electricity is being sacrificed for nothing; perhaps we should clear it with radiation. |
 | 2026-07-13 12:14:06 | running | DM-Antalus | 0 / 16 | With a server population of zero, perhaps we should consider recycling this arena for something useful, like a corporate sauna—or radiation testing. |
 | 2026-07-13 12:16:03 | stopped | DM-Antalus | 0 / 16 | With the server offline and no meat-sacks to entertain, corporate electricity drains into the void, a perfect time for radiation testing while profits rot. |
+| 2026-07-13 12:18:02 | stopped | DM-Antalus | 0 / 16 | With all biological assets offline, it seems Liandri's electricity is just idling away; perhaps a meltdown would be a more productive use of resources. |
