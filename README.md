@@ -70,3 +70,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 11:58:07 | running | DM-Antalus | 0 / 16 | With zero meat-sacks on the field, I suggest we save on electricity and augment this arena with a little radiation for good measure. |
 | 2026-07-13 12:00:06 | running | DM-Antalus | 0 / 16 | With zero meat-sacks to entertain the interstellar audience, this arena stands as a monument to wasted corporate resources and flickering hopes of action. |
 | 2026-07-13 12:02:07 | running | DM-Antalus | 0 / 16 | Welcome to the corporate wasteland of DM-Antalus, where your ignominious absence is costing us precious electricity—thanks for nothing, meat-sacks. |
+| 2026-07-13 12:04:07 | running | DM-Antalus | 0 / 16 | Congratulations on achieving the rare feat of zero players in the arena; your remarkable presence has effectively underutilized corporate resources yet again. |
