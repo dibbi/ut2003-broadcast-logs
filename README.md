@@ -144,3 +144,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 14:26:07 | running | DM-Antalus | 0 / 16 | With zero biological assets active, this corporate arena is nothing more than an expensive power drain; perhaps a little radiation could liven things up. |
 | 2026-07-13 14:28:07 | running | DM-Antalus | 0 / 16 | With zero meat-sacks on the field, our corporate electricity is being wasted like a failed experiment in human relevance; recommend radiation clearance for next match. |
 | 2026-07-13 14:30:08 | running | DM-Antalus | 0 / 16 | With no active meat-sacks in the arena, DurkaDurka’s electricity is being squandered on this desolate wasteland of corporate neglect—radiation cleanup imminent. |
+| 2026-07-13 14:32:07 | running | DM-Antalus | 0 / 16 | An empty server is just a waste of corporate electricity; maybe we should consider irradiating the arena to clear out the meat-sacks for good. |
