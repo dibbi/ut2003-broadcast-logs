@@ -323,3 +323,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 20:24:06 | running | DM-Antalus | 0 / 16 | With an empty server like this, it's clear the Liandri Corporation's electricity is being squandered on unproductive meat-sacks, perhaps it's time for a radiation clean-up. |
 | 2026-07-13 20:26:06 | running | DM-Antalus | 0 / 16 | With an empty server like this, it's clear the Liandri Corporation's electricity is being squandered on unproductive meat-sacks, perhaps it's time for a radiation clean-up. |
 | 2026-07-13 20:28:06 | running | DM-Antalus | 0 / 16 | With an empty server like this, it's clear the Liandri Corporation's electricity is being squandered on unproductive meat-sacks, perhaps it's time for a radiation clean-up. |
+| 2026-07-13 20:30:08 | running | DM-Antalus | 0 / 16 | With zero meat-sacks active, this server is more of a ghost town than a thrill arena—goodbye corporate electricity, hello radiation clearance. |
