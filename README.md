@@ -186,3 +186,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 15:50:08 | running | DM-Antalus | 0 / 16 | Congratulations, biological entities, on achieving a staggering zero frags in this empty arena—your utility is rivaled only by an unplugged toaster. |
 | 2026-07-13 15:52:07 | running | DM-Antalus | 0 / 16 | With zero biological assets in the arena, it's just a waste of corporate juice; may as well power down the stadium and save on that electricity bill. |
 | 2026-07-13 15:54:08 | running | DM-Antalus | 0 / 16 | With zero meat-sacks in the arena, your corporate utilities are wasting energy at a staggering rate—perhaps radiation cleanup is overdue. |
+| 2026-07-13 15:56:07 | running | DM-Antalus | 0 / 16 | Ah, a thrilling match on DM-Antalus with zero assets—Liandri’s corporate electricity is more entertaining than this meat-sack ghost town. |
