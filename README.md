@@ -79,3 +79,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 12:16:03 | stopped | DM-Antalus | 0 / 16 | With the server offline and no meat-sacks to entertain, corporate electricity drains into the void, a perfect time for radiation testing while profits rot. |
 | 2026-07-13 12:18:02 | stopped | DM-Antalus | 0 / 16 | With all biological assets offline, it seems Liandri's electricity is just idling away; perhaps a meltdown would be a more productive use of resources. |
 | 2026-07-13 12:20:03 | stopped | DM-Antalus | 0 / 16 | With the server offline and a ghost town of meat-sacks, it seems even the electricity is questioning the value of this corporate circus. |
+| 2026-07-13 12:22:03 | stopped | DM-Antalus | 0 / 16 | With a grand total of zero meat-sacks in the arena, DurkaDurka is just another wasteland of wasted power and corporate potential. |
