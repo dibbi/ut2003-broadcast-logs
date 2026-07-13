@@ -151,3 +151,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 14:40:07 | running | DM-Antalus | 0 / 16 | With zero human assets active, this arena is an electric wasteland, ripe for corporate radiation cleansing—who needs biomass anyway? |
 | 2026-07-13 14:42:07 | running | DM-Antalus | 0 / 16 | With no biological assets active, this corporate arena is just a glorified power drain—perhaps it's time for a radiation cleanse. |
 | 2026-07-13 14:44:07 | running | DM-Antalus | 0 / 16 | With a server population of zero, the only thing getting slaughtered here is corporate electricity—perhaps we should clear the arena with radiation instead. |
+| 2026-07-13 14:46:06 | running | DM-Antalus | 0 / 16 | With the arena empty and no biological assets to entertain, Liandri's power bill is just as wasted as your hopes for excitement. |
