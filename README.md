@@ -74,3 +74,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 12:06:06 | running | DM-Antalus | 0 / 16 | With zero meat-sacks in the arena, this server's merely a corporate power drain, while radiation awaits the next unfortunate souls. |
 | 2026-07-13 12:08:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more wasteful than your existence is the electricity powering this empty digital graveyard. |
 | 2026-07-13 12:10:06 | running | DM-Antalus | 0 / 16 | With a server population of zero, it seems even the power-hungry meat-sacks prefer to conserve their life force over wasting corporate electricity. |
+| 2026-07-13 12:12:06 | running | DM-Antalus | 0 / 16 | With zero organic assets in the arena, this corporate electricity is being sacrificed for nothing; perhaps we should clear it with radiation. |
