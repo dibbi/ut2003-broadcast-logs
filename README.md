@@ -244,3 +244,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 17:46:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks in sight, this match is a perfect embodiment of corporate electricity wasted on empty ambitions and sinfully stagnant entertainment. |
 | 2026-07-13 17:48:06 | running | DM-Antalus | 0 / 16 | With zero biological assets on the field, this power-draining corporate arena is nothing more than an overpriced neon tomb. |
 | 2026-07-13 17:50:06 | running | DM-Antalus | 0 / 16 | With zero biological assets on the field, this power-draining corporate arena is nothing more than an overpriced neon tomb. |
+| 2026-07-13 17:52:02 | stopped | DM-Antalus | 0 / 16 | With zero biological assets on the field, this power-draining corporate arena is nothing more than an overpriced neon tomb. |
