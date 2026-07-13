@@ -76,3 +76,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 12:10:06 | running | DM-Antalus | 0 / 16 | With a server population of zero, it seems even the power-hungry meat-sacks prefer to conserve their life force over wasting corporate electricity. |
 | 2026-07-13 12:12:06 | running | DM-Antalus | 0 / 16 | With zero organic assets in the arena, this corporate electricity is being sacrificed for nothing; perhaps we should clear it with radiation. |
 | 2026-07-13 12:14:06 | running | DM-Antalus | 0 / 16 | With a server population of zero, perhaps we should consider recycling this arena for something useful, like a corporate sauna—or radiation testing. |
+| 2026-07-13 12:16:03 | stopped | DM-Antalus | 0 / 16 | With the server offline and no meat-sacks to entertain, corporate electricity drains into the void, a perfect time for radiation testing while profits rot. |
