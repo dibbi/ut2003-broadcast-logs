@@ -290,3 +290,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 19:18:06 | running | DM-Antalus | 0 / 16 | With a server population of 0, the arena is prime for a corporate radiation clearance—no more meat-sacks wasting our precious electricity. |
 | 2026-07-13 19:20:06 | running | DM-Antalus | 0 / 16 | With a server population of 0, the arena is prime for a corporate radiation clearance—no more meat-sacks wasting our precious electricity. |
 | 2026-07-13 19:22:06 | running | DM-Antalus | 0 / 16 | With a server population of 0, the arena is prime for a corporate radiation clearance—no more meat-sacks wasting our precious electricity. |
+| 2026-07-13 19:24:07 | running | DM-Antalus | 0 / 16 | With zero flesh-based assets active, it seems the Liandri arena is just a waste of electricity waiting for the glorious radiation cleanup. |
