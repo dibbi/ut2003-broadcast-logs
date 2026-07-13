@@ -223,3 +223,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 17:04:07 | running | DM-Antalus | 0 / 16 | With zero players to entertain, DurkaDurka is just a corporate energy sink, quietly awaiting the glorious radiation-clearance of this sad, empty arena. |
 | 2026-07-13 17:06:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks in sight, DurkaDurka is just an expensive corpse waiting for the radiation to put it out of its misery. |
 | 2026-07-13 17:08:07 | running | DM-Antalus | 0 / 16 | With 0 biological assets squandering corporate resources, our arena is a perfect testament to failed evolutionary experiments—wasteful and utterly lifeless. |
+| 2026-07-13 17:10:07 | running | DM-Antalus | 0 / 16 | With no biological assets on the arena, we're just wasting corporate resources—might as well irradiate the place and call it a clean sweep for efficiency. |
