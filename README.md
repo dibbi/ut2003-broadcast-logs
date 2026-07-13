@@ -338,3 +338,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 20:54:07 | running | DM-Antalus | 0 / 16 | With a server population resembling a corporate ghost town, it's only fitting the arena remains silent; perhaps a radiation sweep is in order to clear the waste. |
 | 2026-07-13 20:56:07 | running | DM-Antalus | 0 / 16 | With an empty server and zero biological assets, corporate electricity burns away while we eagerly await a radiation cleansing of this pathetic arena. |
 | 2026-07-13 20:58:06 | running | DM-Antalus | 0 / 16 | With an empty server and zero biological assets, corporate electricity burns away while we eagerly await a radiation cleansing of this pathetic arena. |
+| 2026-07-13 21:00:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks to entertain, Liandri's electricity bill mounts while we wait for the next round of organic disappointment. |
