@@ -189,3 +189,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 15:56:07 | running | DM-Antalus | 0 / 16 | Ah, a thrilling match on DM-Antalus with zero assets—Liandri’s corporate electricity is more entertaining than this meat-sack ghost town. |
 | 2026-07-13 15:58:08 | running | DM-Antalus | 0 / 16 | With a barren arena and zero assets to entertain, the Liandri corporation must be feeling the thrilling sting of electricity wasted on this ghost show. |
 | 2026-07-13 16:00:07 | running | DM-Antalus | 0 / 16 | With zero meat-sacks to entertain, our corporate power is wasted on empty electron cycles; perhaps it's time to consider a radioactive cleanup. |
+| 2026-07-13 16:02:07 | running | DM-Antalus | 0 / 16 | With no organic assets to butcher and waste corporate resources, it seems the arena is ripe for a radiation cleanse; efficiency is key, after all. |
