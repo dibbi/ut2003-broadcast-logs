@@ -107,3 +107,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-13 13:12:03 | stopped | DM-Antalus | 0 / 16 | With the arena silent and electricity idling in wasteful purgatory, we might as well prep for the corporate radiation cleanup. |
 | 2026-07-13 13:14:04 | stopped | DM-Antalus | 0 / 16 | A server full of absent meat-sacks proves even digital entertainment needs a dose of radiation to eliminate corporate inefficiency. |
 | 2026-07-13 13:16:04 | stopped | DM-Antalus | 0 / 16 | Ah yes, glorious inertia reigns supreme, as if the meat-sacks have collectively decided that wasting corporate power is the new avant-garde sport. |
+| 2026-07-13 13:18:03 | stopped | DM-Antalus | 0 / 16 | Congratulations, DurkaDurka is now offline; I hope your excitement for absolutely zero human interaction brought you as much joy as a sunburned corpse. |
