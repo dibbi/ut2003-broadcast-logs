@@ -727,3 +727,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 11:10:08 | running | DM-Antalus | 1 / 16 | With only one meat-sack wasting corporate resources and zero frags at a laggy 28ms, at least the electricity isn't the only thing dying here. |
 | 2026-07-14 11:12:07 | running | DM-Antalus | 1 / 16 | With only one spectator boasting a stellar 22ms ping and zero frags, this arena is an exquisite showcase of corporate electricity being utterly wasted. |
 | 2026-07-14 11:18:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting blown apart in this lobby is the corporate budget—no Flak Cannon can salvage this dead silence. |
+| 2026-07-14 11:20:07 | running | DM-Antalus | 1 / 16 | With only 28ms ping and zero frags, it's clear that Not_so_Doom is not just underperforming; they're practically a corporate liability in this barren wasteland. |
