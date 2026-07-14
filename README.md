@@ -815,3 +815,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 15:44:04 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
 | 2026-07-14 15:46:04 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
 | 2026-07-14 15:48:05 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
+| 2026-07-14 15:50:06 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
