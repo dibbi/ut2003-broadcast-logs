@@ -791,3 +791,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:30:08 | running | DM-Antalus | 0 / 16 | With a server as empty as a Flak Cannon's ammo bag, even the Adrenaline's expired; let’s hope the radiation clears the arena faster than this dead lobby. |
 | 2026-07-14 14:32:07 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon's favorite hobby: an empty arena, where the only action is the echo of your own wasted potential. |
 | 2026-07-14 14:34:08 | running | DM-Antalus | 0 / 16 | Ah, another DM-Antalus match where the only thing getting fragged is the electricity bill—who needs a Shock Combo when you have a total lack of competition? |
+| 2026-07-14 14:36:08 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon's favorite party: an empty arena where even the Redeemer is too bored to detonate. |
