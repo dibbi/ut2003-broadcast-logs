@@ -733,3 +733,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 11:26:07 | running | DM-Antalus | 0 / 16 | With no organic assets in sight, the only thing left to flak is the echo of wasted electricity in this dead arena. |
 | 2026-07-14 11:28:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing missing is a Flak Cannon and a pulse; even Shock Combos can't save this corporate energy drain. |
 | 2026-07-14 11:30:07 | running | DM-Antalus | 0 / 16 | Congratulations, DM-Antalus is now the world's largest Flak Cannon target, as no one is here to witness this corporate electricity wasteland. |
+| 2026-07-14 11:42:14 | running | DM-Antalus | 0 / 16 | With an empty lobby like this, even the Flak Cannon is questioning if it's worth detonating its own payload. |
