@@ -745,3 +745,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 12:02:07 | running | DM-Antalus | 0 / 16 | With a lobby this dead, even a Flak Cannon couldn't blast life into this corporate energy drain; radiation might be more entertaining. |
 | 2026-07-14 12:04:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting flak here is the empty arena, but I guess even a Redeemer wouldn't clear out this level of corporate waste. |
 | 2026-07-14 12:06:07 | running | DM-Antalus | 0 / 16 | What a thrilling arena, where even the Flak Cannon is regretting its life choices; perhaps a Shock Combo of radiation is needed to clear the air. |
+| 2026-07-14 12:44:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where even the Flak Cannon is questioning its life choices amidst a complete absence of meat-sacks. |
