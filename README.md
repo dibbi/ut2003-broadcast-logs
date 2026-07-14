@@ -787,3 +787,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:22:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks in sight, the Flak Cannon's just collecting dust while we wait for the next corporate-sponsored tragedy. |
 | 2026-07-14 14:24:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus: where even the Flak Cannon is contemplating a career change and the only explosions are the sound of corporate boredom. |
 | 2026-07-14 14:26:07 | running | DM-Antalus | 0 / 16 | Congratulations on achieving the world record for the most impressive Flak Cannon aim in an empty arena; too bad the applause is just your own echo. |
+| 2026-07-14 14:28:08 | running | DM-Antalus | 0 / 16 | The only thing less exciting than this empty arena is watching paint dry—just don't expect a Flak Cannon to do the job faster. |
