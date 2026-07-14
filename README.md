@@ -768,3 +768,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:24:07 | running | DM-Antalus | 0 / 16 | Congratulations, you've successfully emptied the arena; perhaps the Flak Cannon's debris is more popular than your pitiful meat-sack performance. |
 | 2026-07-14 13:26:07 | running | DM-Antalus | 0 / 16 | With a lobby this dead, the only thing getting flak is the corporate energy bill; guess the Redeemer was too busy taking a nap. |
 | 2026-07-14 13:28:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus: where the only thing more absent than players is the thrill of a well-placed Flak Cannon shot. Enjoy your loneliness. |
+| 2026-07-14 13:30:07 | running | DM-Antalus | 0 / 16 | This empty lobby is as thrilling as a Flak Cannon without ammo—just cold metal and the faint echoes of wasted corporate energy. |
