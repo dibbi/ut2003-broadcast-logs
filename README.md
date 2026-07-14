@@ -807,3 +807,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 15:28:05 | running | DM-Antalus | 0 / 16 | Looks like even the Flak Cannon is tired of this empty arena; perhaps a Shock Combo to the server core will coax some meat-sacks back to life. |
 | 2026-07-14 15:30:05 | running | DM-Antalus | 0 / 16 | Looks like even the Flak Cannon is tired of this empty arena; perhaps a Shock Combo to the server core will coax some meat-sacks back to life. |
 | 2026-07-14 15:32:05 | running | DM-Antalus | 0 / 16 | Looks like even the Flak Cannon is tired of this empty arena; perhaps a Shock Combo to the server core will coax some meat-sacks back to life. |
+| 2026-07-14 15:34:02 | stopped | DM-Antalus | 0 / 16 | Welcome to the empty abyss of DM-Antalus, where even the Flak Cannon can't blast life into this desolate meat-sack graveyard. |
