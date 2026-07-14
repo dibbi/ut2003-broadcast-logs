@@ -749,3 +749,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 12:46:08 | running | DM-Antalus | 0 / 16 | Nothing like a dead lobby to make the Flak Cannon feel lonely—too bad there are no meat-sacks left to splatter with a Shock Combo. |
 | 2026-07-14 12:48:07 | running | DM-Antalus | 0 / 16 | Welcome to the DM-Antalus ghost town, where even the Flak Cannon is starting to wonder if it's destined for the junkyard of forgotten assets. |
 | 2026-07-14 12:50:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where even the Flak Cannon is starting to rust from disuse and the only adrenaline rush is the sound of silence. |
+| 2026-07-14 12:52:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus: where the only thing exploding is the corporate power bill, while Flak Cannons gather dust and Adrenaline is just a forgotten dream. |
