@@ -793,3 +793,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:34:08 | running | DM-Antalus | 0 / 16 | Ah, another DM-Antalus match where the only thing getting fragged is the electricity bill—who needs a Shock Combo when you have a total lack of competition? |
 | 2026-07-14 14:36:08 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon's favorite party: an empty arena where even the Redeemer is too bored to detonate. |
 | 2026-07-14 14:38:05 | running | DM-Antalus | 0 / 16 | Looks like the only thing firing is the corporate CPU; even a Flak Cannon can't clear this ghost town of a lobby. |
+| 2026-07-14 14:40:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more vacant than this lobby is the soul of any organic who thinks they can dodge a Flak Cannon. |
