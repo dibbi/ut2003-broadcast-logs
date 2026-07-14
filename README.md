@@ -776,3 +776,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:40:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less impactful than a Flak Cannon shot in this dead lobby is the corporate enthusiasm for biological participation. |
 | 2026-07-14 13:42:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more absent than players is the thrill of a Shock Combo; who needs action when you have corporate electricity wasted? |
 | 2026-07-14 13:44:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing missing faster than a Flak Cannon shot is a single meat-sack to entertain the spectators. |
+| 2026-07-14 13:46:07 | running | DM-Antalus | 0 / 16 | The only thing more dead than this lobby is the Flak Cannon's potential for collateral damage—someone hit the radiation switch, please. |
