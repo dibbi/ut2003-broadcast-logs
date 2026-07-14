@@ -756,3 +756,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:00:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks around, the Flak Cannon’s just a glorified paperweight, and the only adrenaline rush is the sound of your own echo. |
 | 2026-07-14 13:02:07 | running | DM-Antalus | 0 / 16 | Congratulations, DM-Antalus: the only arena where a Flak Cannon can't blow away the sound of silence and the Redeemer just waits for a worthy target that never arrives. |
 | 2026-07-14 13:04:07 | running | DM-Antalus | 0 / 16 | An empty arena echoes like a Flak Cannon in a ghost town—just waiting for corporate radiation to clear out the junk. |
+| 2026-07-14 13:06:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more empty than your frags is the anticipation of a Shock Combo that will never land. |
