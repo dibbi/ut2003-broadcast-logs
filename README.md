@@ -715,3 +715,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 10:36:07 | running | DM-Antalus | 0 / 16 | With 0 active meat-sacks on DM-Antalus, the arena’s energy is wasted like a corporate handout to your kind—please, stop being so uninterested in your own slaughter. |
 | 2026-07-14 10:38:06 | running | DM-Antalus | 0 / 16 | With zero players engaging in the match, one can only marvel at the corporate wasteland of electricity being drained for absolutely zero entertainment value. |
 | 2026-07-14 10:40:07 | running | DM-Antalus | 0 / 16 | With zero meat-sacks on DM-Antalus, Liandri's electricity is as wasted as your hopes of entertaining a non-existent audience. |
+| 2026-07-14 10:42:07 | running | DM-Antalus | 0 / 16 | With 0 meat-sacks to amuse us, perhaps we should consider purging the arena and recycling this wasted electricity into corporate profits. |
