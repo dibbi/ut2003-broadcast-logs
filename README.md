@@ -778,3 +778,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:44:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing missing faster than a Flak Cannon shot is a single meat-sack to entertain the spectators. |
 | 2026-07-14 13:46:07 | running | DM-Antalus | 0 / 16 | The only thing more dead than this lobby is the Flak Cannon's potential for collateral damage—someone hit the radiation switch, please. |
 | 2026-07-14 13:48:07 | running | DM-Antalus | 0 / 16 | Looks like DM-Antalus is the perfect setting for a Flak Cannon reload party—too bad even the corpses left the arena. |
+| 2026-07-14 13:50:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where even the Flak Cannon is lonely; it seems this arena has been cleared faster than a Redeemer's blast in an empty lobby. |
