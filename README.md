@@ -775,3 +775,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:38:07 | running | DM-Antalus | 0 / 16 | Ah, the sweet silence of an empty arena—perfect for practicing your Shock Combos with no risk of collateral damage. |
 | 2026-07-14 13:40:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less impactful than a Flak Cannon shot in this dead lobby is the corporate enthusiasm for biological participation. |
 | 2026-07-14 13:42:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more absent than players is the thrill of a Shock Combo; who needs action when you have corporate electricity wasted? |
+| 2026-07-14 13:44:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing missing faster than a Flak Cannon shot is a single meat-sack to entertain the spectators. |
