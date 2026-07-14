@@ -725,3 +725,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 11:06:07 | running | DM-Antalus | 0 / 16 | Welcome to the DM-Antalus mausoleum, where even the Flak Cannon refuses to fire in the ghostly silence of wasted corporate energy. |
 | 2026-07-14 11:08:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing that gets fragged is corporate electricity—guess even the Flak Cannon lost its spark. |
 | 2026-07-14 11:10:08 | running | DM-Antalus | 1 / 16 | With only one meat-sack wasting corporate resources and zero frags at a laggy 28ms, at least the electricity isn't the only thing dying here. |
+| 2026-07-14 11:12:07 | running | DM-Antalus | 1 / 16 | With only one spectator boasting a stellar 22ms ping and zero frags, this arena is an exquisite showcase of corporate electricity being utterly wasted. |
