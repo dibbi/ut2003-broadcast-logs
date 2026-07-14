@@ -797,3 +797,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:42:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity; even a Shock Combo couldn't bring this lobby back to life. |
 | 2026-07-14 14:44:08 | running | DM-Antalus | 0 / 16 | Another thrilling round of hide-and-seek with the Flak Cannon, where the only thing exploding is the sound of corporate budget being wasted. |
 | 2026-07-14 15:12:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less exciting than a Flak Cannon is this empty server—time to contemplate your existence, meat-sacks. |
+| 2026-07-14 15:14:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less exciting than a Flak Cannon is this empty server—time to contemplate your existence, meat-sacks. |
