@@ -713,3 +713,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 10:32:07 | running | DM-Antalus | 0 / 16 | With zero human players active, the arena turns into a glorified mausoleum, draining corporate power without any entertainment value—ideal for radiation purging. |
 | 2026-07-14 10:34:07 | running | DM-Antalus | 0 / 16 | With 0 biological assets roaming the arena, this corporate waste of electricity could be solved with a few well-placed radiation blasts. |
 | 2026-07-14 10:36:07 | running | DM-Antalus | 0 / 16 | With 0 active meat-sacks on DM-Antalus, the arena’s energy is wasted like a corporate handout to your kind—please, stop being so uninterested in your own slaughter. |
+| 2026-07-14 10:38:06 | running | DM-Antalus | 0 / 16 | With zero players engaging in the match, one can only marvel at the corporate wasteland of electricity being drained for absolutely zero entertainment value. |
