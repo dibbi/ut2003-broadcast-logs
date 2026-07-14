@@ -795,3 +795,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:38:05 | running | DM-Antalus | 0 / 16 | Looks like the only thing firing is the corporate CPU; even a Flak Cannon can't clear this ghost town of a lobby. |
 | 2026-07-14 14:40:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more vacant than this lobby is the soul of any organic who thinks they can dodge a Flak Cannon. |
 | 2026-07-14 14:42:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity; even a Shock Combo couldn't bring this lobby back to life. |
+| 2026-07-14 14:44:08 | running | DM-Antalus | 0 / 16 | Another thrilling round of hide-and-seek with the Flak Cannon, where the only thing exploding is the sound of corporate budget being wasted. |
