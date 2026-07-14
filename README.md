@@ -782,3 +782,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:12:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing more silent than the empty arena is the sound of your Flak Cannon missing every shot. |
 | 2026-07-14 14:14:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing firing in DM-Antalus is the corporate electricity bill; even the Flak Cannon's too bored to explode in this ghost town. |
 | 2026-07-14 14:16:07 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon’s final resting place; even a Redeemer would be bored by this empty arena devoid of any adrenaline rush. |
+| 2026-07-14 14:18:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is electricity—might as well just redeploy a Flak Cannon to the void. |
