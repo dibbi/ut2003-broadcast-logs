@@ -784,3 +784,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 14:16:07 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon’s final resting place; even a Redeemer would be bored by this empty arena devoid of any adrenaline rush. |
 | 2026-07-14 14:18:07 | running | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is electricity—might as well just redeploy a Flak Cannon to the void. |
 | 2026-07-14 14:20:08 | running | DM-Antalus | 0 / 16 | Welcome to the ghost town of DM-Antalus, where even the Flak Cannon's boredom-induced explosion hits harder than any wasted adrenaline here. |
+| 2026-07-14 14:22:07 | running | DM-Antalus | 0 / 16 | With no meat-sacks in sight, the Flak Cannon's just collecting dust while we wait for the next corporate-sponsored tragedy. |
