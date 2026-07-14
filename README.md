@@ -760,3 +760,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:08:07 | running | DM-Antalus | 0 / 16 | Looks like this lobby's as lively as a Flak Cannon in a vacuum—too bad the only thing getting blown up is corporate power usage. |
 | 2026-07-14 13:10:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing getting fragged is the electricity wasted on this empty arena—guess the Flak Cannon is just collecting dust. |
 | 2026-07-14 13:12:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less alive than the empty arena is your chances of finding a Flak Cannon to redeem this boredom. |
+| 2026-07-14 13:14:07 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where even the Flak Cannon is wondering why it bothers loading in a Redeemer for an audience of zero. |
