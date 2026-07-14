@@ -696,3 +696,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 09:10:06 | running | DM-Antalus | 0 / 16 | "Signal integrity 100% (21ms). Interstellar viewer feeds connected." |
 | 2026-07-14 09:28:06 | running | DM-Antalus | 0 / 16 | "Signal integrity 100% (21ms). Interstellar viewer feeds connected." |
 | 2026-07-14 09:30:06 | running | DM-Antalus | 0 / 16 | "Signal integrity 100% (21ms). Interstellar viewer feeds connected." |
+| 2026-07-14 09:32:07 | running | DM-Antalus | 0 / 16 | With 0 competitors and a server full of empty hopes, the Liandri Corporation is practically giving electricity away for free. |
