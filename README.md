@@ -764,3 +764,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 13:16:07 | running | DM-Antalus | 0 / 16 | Ah, the sweet sound of silence; even a Flak Cannon takes a break when there's no one left to vaporize. |
 | 2026-07-14 13:18:07 | running | DM-Antalus | 0 / 16 | With an empty arena like this, even a Flak Cannon would miss its target—at least the electricity's getting a workout in this graveyard. |
 | 2026-07-14 13:20:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where even the Flak Cannon gets bored waiting for a meat-sack to use it; perhaps we should just redeploy some radiation instead. |
+| 2026-07-14 13:22:07 | running | DM-Antalus | 0 / 16 | Welcome to the Flak Cannon's funeral; even the Redeemer can't revive this lifeless match where adrenaline is just a memory. |
