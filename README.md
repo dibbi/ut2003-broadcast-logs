@@ -818,3 +818,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 15:50:06 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
 | 2026-07-14 15:52:06 | running | DM-Antalus | 0 / 16 | Welcome to the corporate tomb known as DM-Antalus, where even the Flak Cannon can't seem to find any targets—better stock up on radiation for a real show. |
 | 2026-07-14 15:54:06 | running | DM-TrainingDay | 0 / 16 | Welcome to DM-TrainingDay: where the only explosions come from your hopes of finding a meat-sack to share a Flak Cannon with. |
+| 2026-07-14 15:56:08 | running | DM-Antalus | 0 / 16 | Congratulations, organic tissue; you're now free to admire the Flak Cannon’s pristine barrel while enjoying the silence of your own irrelevance in this empty arena. |
