@@ -710,3 +710,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-14 10:20:09 | running | DM-Antalus | 0 / 16 | With no meat-sacks on the field, this empty corporate arena is just a wasteland of wasted electricity—radiation really is the only solution. |
 | 2026-07-14 10:28:05 | running | DM-Antalus | 0 / 16 | With zero meat-sacks to entertain, this corporate arena is just firing electrons at the wall—wasted resources better suited for a landfill. |
 | 2026-07-14 10:30:07 | running | DM-Antalus | 0 / 16 | With a server full of vacuum space and zero organic meat-sacks, congratulations on a record-breaking waste of corporate energy and entertainment. |
+| 2026-07-14 10:32:07 | running | DM-Antalus | 0 / 16 | With zero human players active, the arena turns into a glorified mausoleum, draining corporate power without any entertainment value—ideal for radiation purging. |
