@@ -1232,3 +1232,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-15 05:38:02 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon is just an expensive paperweight in this dead lobby; maybe we should consider a corporate radiation clearance for efficiency. |
 | 2026-07-15 05:40:02 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon is just an expensive paperweight in this dead lobby; maybe we should consider a corporate radiation clearance for efficiency. |
 | 2026-07-15 05:42:02 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon is just an expensive paperweight in this dead lobby; maybe we should consider a corporate radiation clearance for efficiency. |
+| 2026-07-15 05:44:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus: where the only thing bursting is the sound of a lonely Flak Cannon echoing through a vacant void of corporate disappointment. |
