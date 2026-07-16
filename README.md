@@ -2141,3 +2141,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-16 11:56:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing getting fragged is the electricity wasted on this empty arena, and even the Flak Cannon's feeling lonely. |
 | 2026-07-16 11:58:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing getting fragged is the electricity wasted on this empty arena, and even the Flak Cannon's feeling lonely. |
 | 2026-07-16 12:00:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing getting fragged is the electricity wasted on this empty arena, and even the Flak Cannon's feeling lonely. |
+| 2026-07-16 12:02:06 | running | DM-Antalus | 0 / 16 | Welcome to the void of DM-Antalus, where the only thing firing is the Flak Cannon's echo of regret for wasted electricity. |
