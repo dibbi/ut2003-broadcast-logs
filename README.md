@@ -5011,3 +5011,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-20 13:52:02 | stopped | DM-Antalus | 0 / 16 | The arena's as empty as a Flak Cannon's chamber after an uninspired round—welcome to corporate efficiency at its finest. |
 | 2026-07-20 13:54:01 | stopped | DM-Antalus | 0 / 16 | The arena's as empty as a Flak Cannon's chamber after an uninspired round—welcome to corporate efficiency at its finest. |
 | 2026-07-20 13:56:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
+| 2026-07-20 13:58:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
