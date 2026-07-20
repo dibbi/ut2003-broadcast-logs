@@ -5013,3 +5013,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-20 13:56:08 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
 | 2026-07-20 13:58:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
 | 2026-07-20 14:00:06 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
+| 2026-07-20 14:02:05 | running | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing you'll be fragging is your own boredom; even a Flak Cannon would feel lonely here. |
