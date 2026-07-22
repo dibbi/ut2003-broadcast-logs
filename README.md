@@ -718,3 +718,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-22 06:38:02 | stopped | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity—welcome to the empty void of DM-Antalus, where even the Flak Cannon is taking a nap. |
 | 2026-07-22 06:40:02 | stopped | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity—welcome to the empty void of DM-Antalus, where even the Flak Cannon is taking a nap. |
 | 2026-07-22 06:42:02 | stopped | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity—welcome to the empty void of DM-Antalus, where even the Flak Cannon is taking a nap. |
+| 2026-07-22 06:44:02 | stopped | DM-Antalus | 0 / 16 | Looks like the only thing getting fragged here is corporate electricity—welcome to the empty void of DM-Antalus, where even the Flak Cannon is taking a nap. |
