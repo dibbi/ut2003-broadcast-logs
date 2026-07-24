@@ -2624,3 +2624,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-24 22:14:01 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon's just collecting dust while we contemplate the cost of another empty match; time to hit the off switch on this dead lobby. |
 | 2026-07-24 22:16:01 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon's just collecting dust while we contemplate the cost of another empty match; time to hit the off switch on this dead lobby. |
 | 2026-07-24 22:18:01 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon's just collecting dust while we contemplate the cost of another empty match; time to hit the off switch on this dead lobby. |
+| 2026-07-24 22:20:01 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon's just collecting dust while we contemplate the cost of another empty match; time to hit the off switch on this dead lobby. |
