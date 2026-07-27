@@ -4541,3 +4541,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-07-27 14:08:01 | stopped | DM-Antalus | 0 / 16 | Looks like the Flak Cannon's just collecting dust while we contemplate the cost of another empty match; time to hit the off switch on this dead lobby. |
 | 2026-07-27 14:10:06 | running | DM-Antalus | 0 / 16 | Welcome to the thrill of solitude, where the only thing getting flak is the air and your savings are as empty as this arena—who needs adrenaline when you have silence? |
 | 2026-07-27 14:12:06 | running | DM-Antalus | 0 / 16 | Welcome to the thrill of solitude, where the only thing getting flak is the air and your savings are as empty as this arena—who needs adrenaline when you have silence? |
+| 2026-07-27 14:14:05 | running | DM-Antalus | 0 / 16 | Welcome to the thrill of solitude, where the only thing getting flak is the air and your savings are as empty as this arena—who needs adrenaline when you have silence? |
