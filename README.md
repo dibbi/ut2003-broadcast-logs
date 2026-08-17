@@ -3790,3 +3790,4 @@ Historical logbook of live ARENA BROADCAST ticker lines generated from starklass
 | 2026-08-17 12:52:02 | stopped | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less entertaining than a Flak Cannon is the sound of crickets echoing in this dead lobby. |
 | 2026-08-17 12:54:02 | stopped | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less entertaining than a Flak Cannon is the sound of crickets echoing in this dead lobby. |
 | 2026-08-17 12:56:02 | stopped | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less entertaining than a Flak Cannon is the sound of crickets echoing in this dead lobby. |
+| 2026-08-17 12:58:02 | stopped | DM-Antalus | 0 / 16 | Welcome to DM-Antalus, where the only thing less entertaining than a Flak Cannon is the sound of crickets echoing in this dead lobby. |
